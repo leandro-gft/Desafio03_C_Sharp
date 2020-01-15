@@ -1,0 +1,11 @@
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\bin\Debug\netcoreapp3.1\TestePolimorfismo.exe
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\bin\Debug\netcoreapp3.1\TestePolimorfismo.deps.json
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\bin\Debug\netcoreapp3.1\TestePolimorfismo.runtimeconfig.json
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\bin\Debug\netcoreapp3.1\TestePolimorfismo.runtimeconfig.dev.json
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\bin\Debug\netcoreapp3.1\TestePolimorfismo.dll
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\bin\Debug\netcoreapp3.1\TestePolimorfismo.pdb
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\obj\Debug\netcoreapp3.1\TestePolimorfismo.csprojAssemblyReference.cache
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\obj\Debug\netcoreapp3.1\TestePolimorfismo.AssemblyInfoInputs.cache
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\obj\Debug\netcoreapp3.1\TestePolimorfismo.AssemblyInfo.cs
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\obj\Debug\netcoreapp3.1\TestePolimorfismo.dll
+C:\Users\LOPH\source\repos\TestePolimorfismo\TestePolimorfismo\obj\Debug\netcoreapp3.1\TestePolimorfismo.pdb
